@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:OpenBullet"
+        xmlns:local="clr-namespace:OpenBullet D3VIL_SGO 1.0.0"
         mc:Ignorable="d"
         Title="" Width="800" Height="620"
         MinWidth="800" MinHeight="600"
